@@ -4,7 +4,7 @@ You'll need a version of npm/yarn that's recent enough to understand alias versi
 
 https://classic.yarnpkg.com/en/docs/cli/add/#toc-yarn-add-alias
 
-E.g. the version of npm that you get if use the version of node in checked-in [.node-version], using nvm or nodenv etc.
+E.g. the version of npm that you get if use the version of node in checked-in [.node-version](.node-version), using nvm or nodenv etc.
 
 Then run:
 
