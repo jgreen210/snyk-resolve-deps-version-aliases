@@ -9,7 +9,7 @@
   "author": "Jeremy Green",
   "license": "ISC",
   "dependencies": {
-    "snyk-resolve-deps": "4.4.1",
+    "snyk-resolve-deps": "4.0.2",
     "jsc-android": "npm:@kudo-ci/jsc-android@250230.2.1"
   }
 }
